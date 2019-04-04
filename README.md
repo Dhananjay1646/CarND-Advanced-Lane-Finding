@@ -16,10 +16,6 @@ You can check out the previous naive version of this project [here](http://code.
 
 You can also watch a demo video of this project [on my YouTube](https://youtu.be/Lw5kBiCGr-g)
 
-## Get the Code
-You can download this folder of code [here](https://tugan0329.bitbucket.io/downloads/udacity/car/land-line/p4-advanced-lane-finding.zip)
-
-
 ## Overview Pipeline
 
 The general steps of this project are the following:
